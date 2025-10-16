@@ -1,4 +1,4 @@
-# GitHub Actions Pipeline Demo
+## GitHub Actions Pipeline Demo
 
 This repo demonstrates a GitHub Actions workflow that builds and tests a simple Python project.
 
